@@ -30,3 +30,5 @@ Finally, I used cluster analysis in python to uncover more patterns.
 [link to Michelin Restaurants in France](https://guide.michelin.com/fr/en/restaurants)
 
 [link to Airbnb Properties in France](https://www.airbnb.com/)
+
+[link to Time Series Analysis data](https://www.quandl.com/databases/ECD/data)
