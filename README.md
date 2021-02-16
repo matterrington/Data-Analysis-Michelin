@@ -1,15 +1,29 @@
 # Data-Analysis-Michelin
 
-Used Python to analyze and visualize data that I collected by web scrapping. Looking to find alternate cities to visit in France besides Paris.
+**Context**
+Paris has the greatest concentration of Michelin restaurants in France. But what other cities in  France  also offer impeccable cuisine?
 
-Completed standard data wrangling and consistency checks.
+In this case study we'll discover what cities outside Paris offer  world-class restaurants in a smaller context. In a post-2020 COVID-scared world, many people will look to mid-sized cities to vacation and eat great food. 
 
-Merged multiple data sets into a pickle file.
+We will consider the 15 largest cities in France to see the availability of Michelin resturants and the value of local Airbnb properties.
 
-Created new coloumns using loc() function and for-loops.
+**Analysis**
+I used webscrapper.io to collect data on Airbnb properties in France and Michelin Guide restaurants across the country.
 
-Summarized data using groupby() function.
+Next, I completed standard data wrangling and consistency checks.
 
-Used Python to create histograms, bar and line charts, and scatterplots to discover relationships between variables.
+I ran linear regression models to test variables. 
+
+Finally, I used cluster analysis in python to uncover more patterns.
+
+
+**Deliverables:**
 
 [link to Tableau Viz](https://public.tableau.com/profile/matt.errington#!/vizhome/SkippingParis/Story1)
+
+
+
+**Data Sources**
+[link to Michelin Restaurants in France](https://guide.michelin.com/fr/en/restaurants)
+
+[link to Airbnb Properties in France](https://www.airbnb.com/)
