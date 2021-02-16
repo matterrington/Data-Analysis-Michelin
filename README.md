@@ -11,3 +11,5 @@ Created new coloumns using loc() function and for-loops.
 Summarized data using groupby() function.
 
 Used Python to create histograms, bar and line charts, and scatterplots to discover relationships between variables.
+
+[link to Tableau Viz](https://public.tableau.com/profile/matt.errington#!/vizhome/SkippingParis/Story1)
